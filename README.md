@@ -24,5 +24,5 @@
 
 ### Contributors : 
 **Apurva Sarode<br>
-Renuka Madhugir<br>
+Renuka Madhugiri<br>
 Amit Phadke<br>**
